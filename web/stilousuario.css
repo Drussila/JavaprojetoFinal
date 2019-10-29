@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/10/2019, 08:20:38
+    Author     : Aluno17
+*/
+
+.figura-principal {
+    width: 100%;
+    background-image: url(../../imagens/secoes/fundo_cab01.jpg);
+    background-size: cover;
+    margin-bottom: 1.5em;
+    color: #FFF;
+}
